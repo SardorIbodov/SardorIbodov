@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SardorIbodov
-- 👀 I’m interested in Front-end development
+- 👀 I’m entry-level Front-end development
 - 🌱 I’m currently learning JavaScript / React.js in WebBrain Academy
 
 
